@@ -8,6 +8,7 @@ authors = ["Saiteja Utpala <saitejautpala@gmail.com>"]
 python = "^3.9"
 transformers = "^4.26.1"
 torch = "^1.13.1"
+ipykernel = "^6.21.2"
 
 [tool.poetry.dev-dependencies]
 pre-commit = "^2.16.0"
